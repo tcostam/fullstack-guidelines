@@ -6,16 +6,16 @@ This document collects best practices for writing tests in each layer of web app
 
 ### Unit testing
 
-RSpec
+RSpec  
 https://github.com/rspec/rspec-rails
 
-Capybara: Feature Tests, acceptance tests.
+Capybara: Feature Tests, acceptance tests  
 https://github.com/teamcapybara/capybara
 
-FactoryGirl
+FactoryGirl  
 https://github.com/thoughtbot/factory_bot
 
-How We Test Rails Applications
+How We Test Rails Applications  
 https://robots.thoughtbot.com/how-we-test-rails-applications
 
 ### E2E Testing
@@ -25,8 +25,8 @@ https://www.cypress.io/
 
 ### React Components
 
-Jest: JavaScript Testing
+Jest: JavaScript Testing  
 https://facebook.github.io/jest/
 
-Enzyme: JavaScript Testing utilities for React
+Enzyme: JavaScript Testing utilities for React  
 https://github.com/airbnb/enzyme
