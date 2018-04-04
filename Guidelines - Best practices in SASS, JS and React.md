@@ -12,3 +12,8 @@ Airbnb CSS / Sass Styleguide
 [Airbnb css styleguide official website (good practices for formatting)](https://github.com/airbnb/css)  
 
 ## React
+
+### References
+
+React Design Patterns and Best Practices - Michele Bertoli
+https://www.amazon.com/React-Design-Patterns-Best-Practices/dp/1786464535
