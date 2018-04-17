@@ -129,7 +129,8 @@ ITCSS ("Inverted Triangle CSS") is a nice complement to any rscss structure.
 [Nicolas Gallagher's blog post "About HTML semantics and front-end architecture"](http://nicolasgallagher.com/about-html-semantics-front-end-architecture/)  
 [Awesome css repository](https://github.com/sotayamashita/awesome-css)  
 [Airbnb css styleguide official website (good practices for formatting)](https://github.com/airbnb/css)  
-[Mark Otto's blog post on GitHub's CSS structure](http://markdotto.com/2014/07/23/githubs-css/)
+[Mark Otto's blog post on GitHub's CSS structure](http://markdotto.com/2014/07/23/githubs-css/)  
+[Willian Justen's blog post on RSCSS](https://willianjusten.com.br/falando-sobre-rscss/)
 
 ##### Structure
 
