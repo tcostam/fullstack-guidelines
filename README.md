@@ -2,7 +2,7 @@
 
 In progress.
 
-This guidelines were written with an AWS/Ruby/AngularJS tech stack in mind. It resumes up-to-date best practices in web projects in using this stack.
+These guidelines were written with an AWS/Ruby/AngularJS tech stack in mind. It resumes up-to-date best practices in web projects using this stack.
 
 ## Client Side
 
