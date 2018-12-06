@@ -1,4 +1,4 @@
-# Guidelines: Best Practices in Angular (in progress)
+# Guidelines: Best Practices in AngularJS/Angular (in progress)
 
 ## Intro
 

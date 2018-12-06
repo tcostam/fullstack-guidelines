@@ -1,16 +1,12 @@
 # Guidelines: Best Practices in CSS
 
-This document is an attempt to gather information about the best practices used to create better maintainable client-side web applications.
+This document attempts to gather information about the best practices to create maintainable web applications cascading stylesheets.
 
 ## CSS
 
 ### Introduction / Motivation
 
-Based on a report made through [CSS stats](www.cssstats.com), the [number of selectors in tfsports.com.br](http://cssstats.com/stats?url=http%3A%2F%2Fwww.tfsports.com.br&ua=Browser%20Default) are 10.2k as of mar/05/2018. The high number of selectors, combined with other clearly unoptimized statistics can reduce the performance of the application significantly.
-
-Mark Otto in a report using CSS Stats as well, found out that: GitHub has around 7,000 selectors, Bootstrap has 1,900, Twitter has 8,900, Trello has 2,426, The New York Times has 2,100, and SoundCloud has 1,100.
-
-Based in this analysis, we see the need to implement good practices regarding CSS code and architecture organization in order to improve performance and maintainability.
+www.cssstats.com
 
 ### The Basics
 
@@ -146,6 +142,11 @@ ITCSS ("Inverted Triangle CSS") is a nice complement to any rscss structure.
 [James Basoo's blog post on "Scalable, Modular CSS | BEM & ITCSS"](http://www.gpmd.co.uk/blog/scalable-css/)
 
 ##### Naming conventions & Methodologies
+
+*RSCSS*  
+[RSCSS official website](http://rscss.io)  
+[RSCSS official repo](https://github.com/rstacruz/rscss)
+
 *BEM*  
 [BEM](https://en.bem.info)  
 [Harry Roberts' blog post "MindBEMding – getting your head ’round BEM syntax"](https://csswizardry.com/2013/01/mindbemding-getting-your-head-round-bem-syntax/)  

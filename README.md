@@ -1,7 +1,8 @@
 # Fullstack Guidelines
 
-This repository resumes up-to-date best practices on some of the most used
-technologies in my stack of web development projects.
+In progress.
+
+This guidelines were written with an AWS/Ruby/AngularJS tech stack in mind. It resumes up-to-date best practices in web projects in using this stack.
 
 ## Client Side
 

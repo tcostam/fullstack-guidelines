@@ -1,4 +1,5 @@
 # Guidelines: Best Practices in SASS, JS and React
+This guide will be broken down in the future.
 
 ## Sass (in progress)
 
